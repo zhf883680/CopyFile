@@ -1,0 +1,13 @@
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\bin\Debug\CopyFile.exe.config
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\bin\Debug\CopyFile.exe
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\bin\Debug\CopyFile.pdb
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\bin\Debug\NPOI.dll
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\bin\Debug\NPOI.OOXML.dll
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\bin\Debug\NPOI.xml
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.csprojResolveAssemblyReference.cache
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.csproj.CoreCompileInputs.cache
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.exe
+C:\Users\zhf88\source\repos\CopyFile\CopyFile\obj\Debug\CopyFile.pdb
